@@ -2,6 +2,8 @@
 
 This project showcases my Portfolio that I have created! Within it you'll find all sorts of information about me and what I strive to do.
 
+![alt text](/Assets/images/Untitled_ Feb 23, 2022 1_46 PM.gif)  gi
+
 
 ## Installation
 
