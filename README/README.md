@@ -2,7 +2,7 @@
 
 This project showcases my Portfolio that I have created! Within it you'll find all sorts of information about me and what I strive to do.
 
-![alt text](/Assets/images/Untitled_ Feb 23, 2022 1_46 PM.gif)  gi
+![How It Works](https://github.com/JoelHauser/Portfolio_HTML-CSS/blob/main/Assets/images/Untitled_%20Feb%2023%2C%202022%201_46%20PM.gif)
 
 
 ## Installation
